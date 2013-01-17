@@ -1,0 +1,8 @@
+Window: {
+		backgroundColor: red
+		exitOnClose: true
+		navBar: true
+}
+
+Menu: {
+		

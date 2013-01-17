@@ -1,0 +1,21 @@
+<Alloy>
+	<Window id="container" class="">
+		<TabGroup id="quiz-group" class="">
+			<Tab id="quiz" class="">
+				<Window>
+					<Menu platform="android"></Menu>
+					<View>
+						<Label>
+						</Label>
+						<Input>
+						</Input>
+						<Button>
+						</Button>
+					</View>
+					<TableView>
+					</TableView>
+				</Window>
+			</Tab>
+		</TabGroup>
+	</Window>
+</Alloy>
